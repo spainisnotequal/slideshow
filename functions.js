@@ -1,4 +1,4 @@
-const transitionTime = 3000; // in miliseconds
+const transitionTime = 2000; // in miliseconds
 
 const slides = document.querySelectorAll("#slides .slide");
 const startButton = document.getElementById("start");
